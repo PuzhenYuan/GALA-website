@@ -7,7 +7,7 @@ Anonymous research project page for **Geometry-Aware Latent Action Modeling for 
 - `index.html`: page content and experimental tables
 - `style.css`: white background, centered headings, and three-column video galleries
 - `script.js`: third-person / wrist-camera switching
-- `assets/`: three v2 figures, anonymous appendix, and 44 videos from 22 demonstrations
+- `assets/`: three v2 figures, anonymous appendix, and 24 successful RoboCasa task videos and 42 displayed real-world videos from 21 paired demonstrations
 
 The Code button is intentionally disabled. The overview video is reserved for a future upload. All assets are local; no external fonts, analytics, or tracking scripts are used. Published videos have neutral names, no audio, and no original identifying metadata. Failed demonstrations are excluded.
 
