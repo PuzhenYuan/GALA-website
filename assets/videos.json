@@ -221,23 +221,6 @@
     ]
   },
   {
-    "id": "flip-03",
-    "group": "Flip Cup",
-    "label": "Blue cup",
-    "views": [
-      {
-        "name": "Third-person view",
-        "src": "assets/flip-03-front.mp4",
-        "poster": "assets/flip-03-front.jpg"
-      },
-      {
-        "name": "Wrist view",
-        "src": "assets/flip-03-wrist.mp4",
-        "poster": "assets/flip-03-wrist.jpg"
-      }
-    ]
-  },
-  {
     "id": "flip-04",
     "group": "Flip Cup",
     "label": "Pink cup",

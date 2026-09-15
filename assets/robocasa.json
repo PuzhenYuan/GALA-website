@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "label": "Cup \u2192 drawer + close",
+    "src": "assets/robocasa-01.mp4",
+    "poster": "assets/robocasa-01.jpg"
+  },
+  {
+    "id": 2,
+    "label": "Potato \u2192 microwave + close",
+    "src": "assets/robocasa-02.mp4",
+    "poster": "assets/robocasa-02.jpg"
+  },
+  {
+    "id": 3,
+    "label": "Milk \u2192 microwave + close",
+    "src": "assets/robocasa-03.mp4",
+    "poster": "assets/robocasa-03.jpg"
+  },
+  {
+    "id": 4,
+    "label": "Bottle \u2192 cabinet + close",
+    "src": "assets/robocasa-04.mp4",
+    "poster": "assets/robocasa-04.jpg"
+  },
+  {
+    "id": 5,
+    "label": "Wine \u2192 cabinet + close",
+    "src": "assets/robocasa-05.mp4",
+    "poster": "assets/robocasa-05.jpg"
+  },
+  {
+    "id": 6,
+    "label": "Can \u2192 drawer + close",
+    "src": "assets/robocasa-06.mp4",
+    "poster": "assets/robocasa-06.jpg"
+  },
+  {
+    "id": 7,
+    "label": "Cutting board \u2192 basket",
+    "src": "assets/robocasa-07.mp4",
+    "poster": "assets/robocasa-07.jpg"
+  },
+  {
+    "id": 8,
+    "label": "Cutting board \u2192 cardboard box",
+    "src": "assets/robocasa-08.mp4",
+    "poster": "assets/robocasa-08.jpg"
+  },
+  {
+    "id": 9,
+    "label": "Cutting board \u2192 pan",
+    "src": "assets/robocasa-09.mp4",
+    "poster": "assets/robocasa-09.jpg"
+  },
+  {
+    "id": 10,
+    "label": "Cutting board \u2192 pot",
+    "src": "assets/robocasa-10.mp4",
+    "poster": "assets/robocasa-10.jpg"
+  },
+  {
+    "id": 11,
+    "label": "Cutting board \u2192 tiered basket",
+    "src": "assets/robocasa-11.mp4",
+    "poster": "assets/robocasa-11.jpg"
+  },
+  {
+    "id": 12,
+    "label": "Placemat \u2192 basket",
+    "src": "assets/robocasa-12.mp4",
+    "poster": "assets/robocasa-12.jpg"
+  },
+  {
+    "id": 13,
+    "label": "Placemat \u2192 bowl",
+    "src": "assets/robocasa-13.mp4",
+    "poster": "assets/robocasa-13.jpg"
+  },
+  {
+    "id": 14,
+    "label": "Placemat \u2192 plate",
+    "src": "assets/robocasa-14.mp4",
+    "poster": "assets/robocasa-14.jpg"
+  },
+  {
+    "id": 15,
+    "label": "Placemat \u2192 tiered shelf",
+    "src": "assets/robocasa-15.mp4",
+    "poster": "assets/robocasa-15.jpg"
+  },
+  {
+    "id": 16,
+    "label": "Plate \u2192 bowl",
+    "src": "assets/robocasa-16.mp4",
+    "poster": "assets/robocasa-16.jpg"
+  },
+  {
+    "id": 17,
+    "label": "Plate \u2192 cardboard box",
+    "src": "assets/robocasa-17.mp4",
+    "poster": "assets/robocasa-17.jpg"
+  },
+  {
+    "id": 18,
+    "label": "Plate \u2192 pan",
+    "src": "assets/robocasa-18.mp4",
+    "poster": "assets/robocasa-18.jpg"
+  },
+  {
+    "id": 19,
+    "label": "Plate \u2192 plate",
+    "src": "assets/robocasa-19.mp4",
+    "poster": "assets/robocasa-19.jpg"
+  },
+  {
+    "id": 20,
+    "label": "Tray \u2192 cardboard box",
+    "src": "assets/robocasa-20.mp4",
+    "poster": "assets/robocasa-20.jpg"
+  },
+  {
+    "id": 21,
+    "label": "Tray \u2192 plate",
+    "src": "assets/robocasa-21.mp4",
+    "poster": "assets/robocasa-21.jpg"
+  },
+  {
+    "id": 22,
+    "label": "Tray \u2192 pot",
+    "src": "assets/robocasa-22.mp4",
+    "poster": "assets/robocasa-22.jpg"
+  },
+  {
+    "id": 23,
+    "label": "Tray \u2192 tiered basket",
+    "src": "assets/robocasa-23.mp4",
+    "poster": "assets/robocasa-23.jpg"
+  },
+  {
+    "id": 24,
+    "label": "Tray \u2192 tiered shelf",
+    "src": "assets/robocasa-24.mp4",
+    "poster": "assets/robocasa-24.jpg"
+  }
+]
