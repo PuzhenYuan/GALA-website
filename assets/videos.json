@@ -1,0 +1,376 @@
+[
+  {
+    "id": "pick-01",
+    "group": "Pick and Place",
+    "label": "Bamboo",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/pick-01-front.mp4",
+        "poster": "assets/pick-01-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/pick-01-wrist.mp4",
+        "poster": "assets/pick-01-wrist.jpg"
+      }
+    ]
+  },
+  {
+    "id": "pick-02",
+    "group": "Pick and Place",
+    "label": "Bamboo",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/pick-02-front.mp4",
+        "poster": "assets/pick-02-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/pick-02-wrist.mp4",
+        "poster": "assets/pick-02-wrist.jpg"
+      }
+    ]
+  },
+  {
+    "id": "press-01",
+    "group": "Press Button",
+    "label": "Button",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/press-01-front.mp4",
+        "poster": "assets/press-01-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/press-01-wrist.mp4",
+        "poster": "assets/press-01-wrist.jpg"
+      }
+    ]
+  },
+  {
+    "id": "press-02",
+    "group": "Press Button",
+    "label": "Button",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/press-02-front.mp4",
+        "poster": "assets/press-02-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/press-02-wrist.mp4",
+        "poster": "assets/press-02-wrist.jpg"
+      }
+    ]
+  },
+  {
+    "id": "pick-03",
+    "group": "Pick and Place",
+    "label": "Orange",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/pick-03-front.mp4",
+        "poster": "assets/pick-03-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/pick-03-wrist.mp4",
+        "poster": "assets/pick-03-wrist.jpg"
+      }
+    ]
+  },
+  {
+    "id": "pick-04",
+    "group": "Pick and Place",
+    "label": "Orange",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/pick-04-front.mp4",
+        "poster": "assets/pick-04-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/pick-04-wrist.mp4",
+        "poster": "assets/pick-04-wrist.jpg"
+      }
+    ]
+  },
+  {
+    "id": "pick-05",
+    "group": "Pick and Place",
+    "label": "Yellow box",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/pick-05-front.mp4",
+        "poster": "assets/pick-05-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/pick-05-wrist.mp4",
+        "poster": "assets/pick-05-wrist.jpg"
+      }
+    ]
+  },
+  {
+    "id": "pick-06",
+    "group": "Pick and Place",
+    "label": "Green box",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/pick-06-front.mp4",
+        "poster": "assets/pick-06-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/pick-06-wrist.mp4",
+        "poster": "assets/pick-06-wrist.jpg"
+      }
+    ]
+  },
+  {
+    "id": "flip-01",
+    "group": "Flip Cup",
+    "label": "Blue cup",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/flip-01-front.mp4",
+        "poster": "assets/flip-01-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/flip-01-wrist.mp4",
+        "poster": "assets/flip-01-wrist.jpg"
+      }
+    ]
+  },
+  {
+    "id": "flip-02",
+    "group": "Flip Cup",
+    "label": "Shaker cup",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/flip-02-front.mp4",
+        "poster": "assets/flip-02-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/flip-02-wrist.mp4",
+        "poster": "assets/flip-02-wrist.jpg"
+      }
+    ]
+  },
+  {
+    "id": "pour-01",
+    "group": "Pour Liquid",
+    "label": "Pouring",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/pour-01-front.mp4",
+        "poster": "assets/pour-01-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/pour-01-wrist.mp4",
+        "poster": "assets/pour-01-wrist.jpg"
+      }
+    ]
+  },
+  {
+    "id": "pour-02",
+    "group": "Pour Liquid",
+    "label": "Pouring",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/pour-02-front.mp4",
+        "poster": "assets/pour-02-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/pour-02-wrist.mp4",
+        "poster": "assets/pour-02-wrist.jpg"
+      }
+    ]
+  },
+  {
+    "id": "pour-03",
+    "group": "Pour Liquid",
+    "label": "Pouring",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/pour-03-front.mp4",
+        "poster": "assets/pour-03-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/pour-03-wrist.mp4",
+        "poster": "assets/pour-03-wrist.jpg"
+      }
+    ]
+  },
+  {
+    "id": "flip-03",
+    "group": "Flip Cup",
+    "label": "Blue cup",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/flip-03-front.mp4",
+        "poster": "assets/flip-03-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/flip-03-wrist.mp4",
+        "poster": "assets/flip-03-wrist.jpg"
+      }
+    ]
+  },
+  {
+    "id": "flip-04",
+    "group": "Flip Cup",
+    "label": "Pink cup",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/flip-04-front.mp4",
+        "poster": "assets/flip-04-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/flip-04-wrist.mp4",
+        "poster": "assets/flip-04-wrist.jpg"
+      }
+    ]
+  },
+  {
+    "id": "pick-07",
+    "group": "Pick and Place",
+    "label": "Pink box",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/pick-07-front.mp4",
+        "poster": "assets/pick-07-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/pick-07-wrist.mp4",
+        "poster": "assets/pick-07-wrist.jpg"
+      }
+    ]
+  },
+  {
+    "id": "pick-08",
+    "group": "Pick and Place",
+    "label": "Orange",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/pick-08-front.mp4",
+        "poster": "assets/pick-08-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/pick-08-wrist.mp4",
+        "poster": "assets/pick-08-wrist.jpg"
+      }
+    ]
+  },
+  {
+    "id": "pick-09",
+    "group": "Pick and Place",
+    "label": "Bamboo",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/pick-09-front.mp4",
+        "poster": "assets/pick-09-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/pick-09-wrist.mp4",
+        "poster": "assets/pick-09-wrist.jpg"
+      }
+    ]
+  },
+  {
+    "id": "press-03",
+    "group": "Press Button",
+    "label": "Button",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/press-03-front.mp4",
+        "poster": "assets/press-03-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/press-03-wrist.mp4",
+        "poster": "assets/press-03-wrist.jpg"
+      }
+    ]
+  },
+  {
+    "id": "push-01",
+    "group": "Push Object",
+    "label": "Blue box",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/push-01-front.mp4",
+        "poster": "assets/push-01-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/push-01-wrist.mp4",
+        "poster": "assets/push-01-wrist.jpg"
+      }
+    ]
+  },
+  {
+    "id": "push-02",
+    "group": "Push Object",
+    "label": "Green box",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/push-02-front.mp4",
+        "poster": "assets/push-02-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/push-02-wrist.mp4",
+        "poster": "assets/push-02-wrist.jpg"
+      }
+    ]
+  },
+  {
+    "id": "push-03",
+    "group": "Push Object",
+    "label": "Red box",
+    "views": [
+      {
+        "name": "Third-person view",
+        "src": "assets/push-03-front.mp4",
+        "poster": "assets/push-03-front.jpg"
+      },
+      {
+        "name": "Wrist view",
+        "src": "assets/push-03-wrist.mp4",
+        "poster": "assets/push-03-wrist.jpg"
+      }
+    ]
+  }
+]
